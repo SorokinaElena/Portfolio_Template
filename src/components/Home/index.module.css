@@ -1,0 +1,28 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 104px;
+}
+
+.home_content {
+    /* height: 188px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home_content h1 {
+    font-size: 47px;
+    margin: 40px 0;
+}
+
+.home_content h2 {
+    font-size: 16px;
+    transform: rotate(-90deg);
+    color: #000000;
+}
+
+.ru_text_color {
+    color: #828282;
+}
