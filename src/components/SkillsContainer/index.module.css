@@ -1,0 +1,5 @@
+.skills_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 111px;
+}
