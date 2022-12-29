@@ -20,7 +20,7 @@ h2 {
   color: #070707;
 }
 
-p {
+p, a {
   font-family: 'Gilroy-Medium ☞';
   font-style: normal;
   font-weight: normal;
