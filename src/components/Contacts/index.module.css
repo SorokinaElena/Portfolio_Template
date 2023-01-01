@@ -1,0 +1,51 @@
+.contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contacts h2 {
+    padding: 114px 0 20px 0;
+}
+
+.contacts p {
+    text-align: center;
+    line-height: 22px;
+}
+
+.contacts button {
+    width: 180.5px;
+    height: 42px;
+    margin: 30px 0 86px 0;
+    border-radius: 20px;
+    color: white;
+    font-size: 18px;
+    background-color: #070707;;
+}
+
+.icons_container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 46px;
+}
+
+.contacts_icon {
+    font-size: 40px;
+    margin: 0 31px 0 31px;
+}
+
+.icon_linkedIn, .icon_instagram {
+    font-size: 46px;
+}
+
+.icons_container img {
+    margin: 0 31px 0 31px;
+}
+
+.contacts .like_me {
+    color: #828282;
+    font-size: 14px;
+    line-height: 17px;
+    padding-bottom: 123px;
+} 
