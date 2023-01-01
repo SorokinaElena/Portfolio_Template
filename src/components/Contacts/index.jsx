@@ -2,7 +2,6 @@ import React from 'react'
 import { LinkedinOutlined } from '@ant-design/icons'
 import { InstagramOutlined } from '@ant-design/icons'
 import { BehanceOutlined } from '@ant-design/icons'
-import dribble from './images/dribble.svg'
 import s from './index.module.css'
 
 export default function Contacts() {
