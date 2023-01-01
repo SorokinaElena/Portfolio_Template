@@ -7,14 +7,19 @@
     /* display: grid;
     grid-template-columns: repeat(5, 1fr); */
 
-    height: 88px;
-    color: #828282;
-    font-size: 18px;
     border-bottom: 1px solid #828282;
 }
 
-.nav_block div {
+.nav_block a {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
+    font-family: 'Gilroy-Bold ☞';
+    font-style: normal;
+    font-weight: normal;
+    height: 88px;
+    color: #828282;
+    font-size: 18px;
+    cursor: pointer;
 }

@@ -12,6 +12,7 @@ export default function Portfolio() {
               portfolio.map(el => <PortfolioItem key={el.id} {...el}/>)
             }
         </div>
+        <a name='contacts'></a>
     </div>
   )
 }

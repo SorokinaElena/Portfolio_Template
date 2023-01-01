@@ -8,6 +8,7 @@ import s from './index.module.css'
 export default function Contacts() {
   return (
     <div className={s.contacts}>
+        
         <h2>Contacts</h2>
         <p>Want to know more or just chat? <br /> You are welcome!</p>
         <button>Send message</button>

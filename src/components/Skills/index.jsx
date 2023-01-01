@@ -8,6 +8,7 @@ export default function Skills() {
         <h2>Skills</h2>
         <p>I work in such programs as</p>
         <SkillsContainer />
+        <a name='portfolio'></a>
     </div>
   )
 }

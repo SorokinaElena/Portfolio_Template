@@ -10,6 +10,7 @@ export default function AboutMe() {
             <p>I'm studying at courses "Web and mobile design <br /> interfaces" in IT-Academy.</p>
             <p>Ready to implement excellent projects <br /> with wonderful people.</p>
         </div>
+        <a name='skills'></a>
     </div>
   )
 }
